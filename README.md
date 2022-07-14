@@ -13,7 +13,7 @@
 ## :sassy_man:  About me
 - :school: I am a graduate of Islamic Azad University with a `bachelor's degree` in software engineering.
 - :heart: Achieving the `Blockchain Specialist` certification from `Buffalo University` in New York 2022
-- :gem: I'm a `Full stack` web & `Blockchain` developer
+- :gem: I'm a `Backend` & `Blockchain` developer
 - :dart: I love using Software as a solution for every `Problem`
 - :computer: I have been programming since 1995. When there were `MS-DOS 5.2` and `Novell Netware`
 - :thinking: Always `learning new things`
@@ -76,12 +76,7 @@
 
 ### 👉 Frontend Development
 <p align="center"> 
- &emsp; 
-  <a href="https://reactjs.org/" target="_blank"> 
-   <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic">
-  </a> 
-   &emsp; 
- 
+ &emsp;    
   <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank"> 
    <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&style=plastic">
   </a>     
@@ -101,10 +96,7 @@
   <a href="https://jquery.com/" target="_blank"> 
      <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&logoColor=white&style=plastic">
    </a>
-   &emsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=plastic">
-   </a>
+   &emsp; 
 </p>
 
  ### 👉 Software & Tools
