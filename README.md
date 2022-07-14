@@ -81,10 +81,7 @@
    <img alt="React" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=plastic">
   </a> 
    &emsp; 
- <a href="https://nextjs.org/" target="_blank"> 
-   <img alt="NextJS" src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white">
-  </a> 
-  &emsp; 
+ 
   <a href="https://web3js.readthedocs.io/en/v1.7.3/" target="_blank"> 
    <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?logo=Web3.js&logoColor=white&style=plastic">
   </a>     
