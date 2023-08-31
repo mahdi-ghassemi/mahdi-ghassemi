@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mahdi Ghasemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=F75029&lines=Senior Blockchain+%26+Developer;Software+Engineer;Always+learning+new+things&center=true&width=500&height=50"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=F75029&lines=Senior+Blockchain+Developer;Software+Engineer;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 
 <br>
