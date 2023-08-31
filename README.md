@@ -71,7 +71,7 @@
 ### 👉 Backend Development
 <p align="center">
 &emsp;
-    <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic"></a>
+    <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-339933?logo=go&logoColor=white&style=plastic"></a>
 &emsp;
     <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"></a>
 
