@@ -64,7 +64,7 @@
   </a>
  &emsp;
    <a href="https://dart.dev/" target="_blank">
-    <img alt="Dart" src="https://img.shields.io/badge/dart%20-%23007396.svg?style=plastic&logo=dart#&logoColor=white">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart%20-%23007396.svg?style=plastic&logo=dart#&logoColor=white">
   </a>
 </p>
 
