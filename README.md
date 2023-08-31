@@ -62,6 +62,10 @@
    <a href="https://www.w3schools.com/cs/index.php" target="_blank">
     <img alt="C-Sharp" src="https://img.shields.io/badge/C-Sharp%20-%2314354C.svg?style=plastic&logo=csharp#&logoColor=white">
   </a>
+ &emsp;
+   <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/dart%20-%23007396.svg?style=plastic&logo=dart#&logoColor=white">
+  </a>
 </p>
 
 ### 👉 Backend Development
@@ -71,6 +75,12 @@
 &emsp;
     <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"></a>
 
+</p>
+
+### 👉 Mobile Development
+<p align="center">
+&emsp;
+    <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-339933?logo=flutter&logoColor=white&style=plastic"></a>
 </p>
 
 
@@ -113,7 +123,10 @@
  ### 👉 IDEs 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a> 
+    <a href="https://www.jetbrains.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a> 
+
+ &emsp;
+    <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-0078d7.svg?style=plastic&logo=android-studio&logoColor=white"></a> 
 </p> 
 
  ### 👉 Operating Systems
@@ -140,6 +153,9 @@
     <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=plastic"></a>   
     &emsp;
     <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=plastic"></a>   
+
+ &emsp;
+    <a href="https://redis.io/"><img src="https://img.shields.io/badge/-Redis-47A248?logo=Redis&logoColor=white&style=plastic"></a>
 </p>
 
 <br/>
