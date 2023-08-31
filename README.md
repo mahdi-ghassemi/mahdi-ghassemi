@@ -13,11 +13,11 @@
 ## :sassy_man:  About me
 - :school: I am a graduate of Islamic Azad University with a `bachelor's degree` in software engineering.
 - :heart: Achieving the `Blockchain Specialist` certification from `Buffalo University` in New York 2022
-- :gem: I'm a `Backend` & `Blockchain` developer
+- :gem: I'm a `Blockchain` & `Backend` developer
 - :dart: I love using Software as a solution for every `Problem`
 - :computer: I have been programming since 1995. When there were `MS-DOS 5.2` and `Novell Netware`
 - :thinking: Always `learning new things`
-- :nerd_face: This is [MY FULL RESUME](https://mahdi-ghasemi.tech/)
+- :nerd_face: This is [MY FULL RESUME](https://mahdi.es/)
 
 <br>
 
@@ -32,7 +32,7 @@
 	<a href="mailto:mehdi.ghassemi51@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/mahdi-ghassemi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0351912118404"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7mahdi-ghasemi-78316639/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/mahdi-ghassemi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/mahdi.ghasemi.72"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/mahdi.ghasemi.1972/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://stackoverflow.com/users/19151903/mahdi-ghasemi"><img src="https://img.shields.io/badge/stackoverflow-%23f2a04a?style=plastic&logo=stackoverflow&logoColor=white" alt="StackOverflow"/></a>
@@ -51,8 +51,8 @@
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity%20-%232370ED.svg?style=plastic&logo=solidity&logoColor=white">
   </a> 
   &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <a href="https://go.dev/" target="_blank"> 
+    <img alt="Go" src="https://img.shields.io/badge/Go%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a>  
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -67,7 +67,7 @@
 ### 👉 Backend Development
 <p align="center">
 &emsp;
-    <a href="https://nodejs.org/en/"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic"></a>
+    <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic"></a>
 &emsp;
     <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"></a>
 
@@ -133,7 +133,7 @@
   &emsp;
     <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/-MySql-4479A1?logo=mysql&logoColor=white&style=plastic"></a>
   &emsp;
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=plastic"></a>
+    <a href="https://github.com/google/leveldb"><img src="https://img.shields.io/badge/-LevelDb-4169E1?logo=LevelDb&logoColor=white&style=plastic"></a>
   &emsp;
     <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?logo=Microsoft%20SQL%20Server&logoColor=white&style=plastic"></a>   
     &emsp;
